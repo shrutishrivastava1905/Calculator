@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator (C# Console App)
+# 🧮 Calculator (C# Console App)
 
 A beginner-friendly **Calculator application** built using C#. This project performs basic arithmetic operations through a console-based interface.
 
